@@ -1,0 +1,36 @@
+{
+  "name": "file-dropzone-gist",
+  "version": "1.0.0",
+  "description": "Production-ready, accessible, and headless-friendly React file & folder dropzone with memory leak management and directory recursion.",
+  "main": "index.ts",
+  "types": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ursyyy/file-dropzone-gist.git"
+  },
+  "keywords": [
+    "react",
+    "dropzone",
+    "file-upload",
+    "folder-upload",
+    "react-dropzone",
+    "typescript",
+    "headless",
+    "hooks"
+  ],
+  "author": "Ursyyy",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0"
+  },
+  "dependencies": {
+    "lucide-react": "^0.475.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^18.3.0 || ^19.0.0",
+    "@types/react-dom": "^18.3.0 || ^19.0.0",
+    "typescript": "^5.0.0"
+  }
+}
